@@ -1,5 +1,5 @@
 {
-  "name": "@fullcalendar/angular",
+  "name": "rs-fullcalendar",
   "version": "5.11.0",
   "title": "FullCalendar Angular Component",
   "description": "An official FullCalendar component for Angular",
@@ -20,19 +20,21 @@
     "tslib": "^2.0.0"
   },
   "peerDependencies": {
-    "@angular/common": "9 - 13",
-    "@angular/core": "9 - 13"
+    "@angular/common": "~8.2.14",
+    "@angular/core": "~8.2.14"
   },
   "engines": {
     "node": ">= 6.9.0",
     "npm": ">= 3.0.0"
   },
-  "main": "bundles/fullcalendar-angular.umd.js",
-  "module": "fesm2015/fullcalendar-angular.js",
-  "es2015": "fesm2015/fullcalendar-angular.js",
-  "esm2015": "esm2015/fullcalendar-angular.js",
-  "fesm2015": "fesm2015/fullcalendar-angular.js",
-  "typings": "fullcalendar-angular.d.ts",
-  "metadata": "fullcalendar-angular.metadata.json",
+  "main": "bundles/rs-fullcalendar.umd.js",
+  "module": "fesm5/rs-fullcalendar.js",
+  "es2015": "fesm2015/rs-fullcalendar.js",
+  "esm5": "esm5/rs-fullcalendar.js",
+  "esm2015": "esm2015/rs-fullcalendar.js",
+  "fesm5": "fesm5/rs-fullcalendar.js",
+  "fesm2015": "fesm2015/rs-fullcalendar.js",
+  "typings": "rs-fullcalendar.d.ts",
+  "metadata": "rs-fullcalendar.metadata.json",
   "sideEffects": false
 }
