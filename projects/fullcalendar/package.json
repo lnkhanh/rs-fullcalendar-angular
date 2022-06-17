@@ -1,6 +1,6 @@
 {
-  "name": "rs-fullcalendar",
-  "version": "5.10.2",
+  "name": "@rs-pk/fullcalendar",
+  "version": "1.0.0",
   "title": "FullCalendar Angular Component",
   "description": "An official FullCalendar component for Angular",
   "keywords": [
